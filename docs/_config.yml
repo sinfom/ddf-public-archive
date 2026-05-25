@@ -1,0 +1,13 @@
+title: "Dual Domain Framework"
+description: "Independent speculative research archive"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+header_pages:
+  - start-here.md
+  - status-of-the-framework.md
+  - research-map.md
+  - papers.md
+  - archive-index.md
+  - github-release-guide.md

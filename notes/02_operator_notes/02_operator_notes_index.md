@@ -1,0 +1,101 @@
+# 02_operator_notes Index
+
+## Files
+
+- Admissibility and Spectral Transitions.md — Admissibility and spectral transitions
+- Transition Law and Admissible Mode Selection (Golden Rule in DDF).md — Transition law and admissible mode selection (golden rule in ddf)
+- Admissibility Balance Equation (Corrected Form).md — Admissibility balance equation (corrected form)
+- 02-operator-chain.md — 02 operator chain
+- N0 — N0 operator emergence and hyperbolic cone
+- N0a — N0a scope claims and limitations of ddf
+- N1 — Propagation Rigidity in the Dual-Domain Framework (Final Corrected)
+- N10 — N10 spectral action emergence constants
+- N11 — N11 unified constraint constants
+- N12 — N12 relative scale gauge couplings
+    - depends on → operator D details
+    - depends on → gives scaling, not exact numbers
+    - depends on → --
+- N13 — N13 heat kernel coefficients
+    - depends on → choice of D
+    - depends on → representation (Dirac spinor)
+    - depends on → dimension (4D used)
+    - depends on → Additional fields modify coefficient
+    - depends on → :
+    - depends on → --
+- N1a — N1a — clifford emergence from admissible projection
+    - depends on → N1
+    - depends on → Harmonic compression principle (U as admissible spectrum)
+    - depends on → Lorentz rigidity (cone-preserving symmetry)
+    - depends on → Spectral admissibility / trace-admissibility framework
+    - depends on → --
+- N1b — N1b admissibility hyperbolicity microlocal
+- N1c — Admissibility Balance and Phase-Spiral Cone Formation
+    - depends on → N1b — Admissibility and Hyperbolicity, Microlocal Formulation
+    - depends on → F5 — Structural Role of Physical Constants
+    - depends on → N1
+    - depends on → F1 — Harmonic Projection
+    - depends on → F2 — Projection Constraints
+    - depends on → --
+    - depends on → N1p — Phase / Dispersion Interpretation
+    - depends on → N0
+    - depends on → F8 — Projection Generator
+- N1d — N1d — operator admissibility and spectral reality
+- N1p — N1p. Phase / Dispersion Interpretation
+    - depends on → N0
+    - depends on → --
+    - depends on → F5 — Structural Role of Physical Constants
+    - depends on → N1
+- N2 — N2 lorentz invariance
+- N2b — N2b dispersion admissibility
+    - depends on → may be cone-compatible locally or approximately;
+    - depends on → Nonlinear dispersion generally requires at least one of:
+    - depends on → higher-order derivatives;
+    - depends on → may be admissible as an effective or emergent correction;
+    - depends on → Status:
+    - depends on → broken Lorentz covariance;
+    - depends on → \(k\);
+    - depends on → is not globally admissible as a fundamental irreducible scalar dispersion law.
+    - depends on → preferred frame or scale;
+    - depends on → effective medium behaviour;
+    - depends on → extra internal degrees of freedom;
+    - depends on → wave packets spread;
+    - depends on → Reason:
+    - depends on → band-limited validity.
+    - depends on → --
+    - depends on → high-frequency behaviour can violate global cone structure unless band-limited;
+- N2b — N2b dispersion admissibility corrected
+    - depends on → may be cone-compatible locally or approximately;
+    - depends on → Nonlinear dispersion generally requires at least one of:
+    - depends on → higher-order derivatives;
+    - depends on → may be admissible as an effective or emergent correction;
+    - depends on → Status:
+    - depends on → broken Lorentz covariance;
+    - depends on → \(k\);
+    - depends on → is not globally admissible as a fundamental irreducible scalar dispersion law.
+    - depends on → preferred frame or scale;
+    - depends on → effective medium behaviour;
+    - depends on → extra internal degrees of freedom;
+    - depends on → wave packets spread;
+    - depends on → Reason:
+    - depends on → band-limited validity.
+    - depends on → --
+    - depends on → high-frequency behaviour can violate global cone structure unless band-limited;
+- N2c — N2c — klein–gordon emergence
+- N2d — N2d — schrödinger limit from klein–gordon
+- N3 — N3 dirac factorisation from lorentz invariance
+- N4 — N4 spin structure and su2 emergence
+- N5 — N5 gauge structure from projection symmetry breaking
+- N5a — N5a gauge algebra selection from projection structure
+- N5b — N5b internal decomposition 123
+- N5c — N5c fermion representations
+- N5d — N5d hypercharge u1
+- N5e — N5e anomaly cancellation from projection admissibility
+- N5f — N5f minimality
+- N5g — N5g fibre algebra classification
+- N6 — N6 mass generation
+- N7 — N7 gravity einstein limit
+- N8 — N8 curvature from l
+- N9 — N9 lichnerowicz identity
+
+## Subfolders
+

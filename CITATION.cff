@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or reference this archive, please cite it using the metadata below."
+title: "Dual Domain Framework Public Research Archive"
+type: dataset
+authors:
+  - family-names: "Fleming"
+    given-names: "Mark"
+    email: "mf@sinfom.com"
+abstract: "An independent speculative research archive for the Dual Domain Framework, a projection-based structural programme exploring the emergence of observable physical structure from a deeper generative domain."
+keywords:
+  - Dual Domain Framework
+  - speculative physics
+  - projection ontology
+  - mathematical cosmology
+  - spectral geometry
+license: "LicenseRef-All-Rights-Reserved"
+date-released: "2026-05-25"
+repository-code: "https://github.com/sinfom/ddf-public-archive"
