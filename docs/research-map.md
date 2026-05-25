@@ -3,8 +3,6 @@ layout: page
 title: Research Map
 ---
 
-# Research Map
-
 The repository is organised into conceptual layers.
 
 ## Core Chain

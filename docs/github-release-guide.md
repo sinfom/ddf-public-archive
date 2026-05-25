@@ -3,8 +3,6 @@ layout: page
 title: GitHub Release Guide
 ---
 
-# GitHub Release Guide
-
 This archive is prepared so the repository can be published publicly and the website can be deployed from `docs/`.
 
 ## Before First Release

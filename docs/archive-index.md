@@ -3,8 +3,6 @@ layout: page
 title: Archive Index
 ---
 
-# Archive Index
-
 The repository preserves both public-facing material and historical working material.
 
 ## Public Website

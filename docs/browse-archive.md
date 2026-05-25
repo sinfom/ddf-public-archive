@@ -3,8 +3,6 @@ layout: page
 title: Browse Archive
 ---
 
-# Browse Archive
-
 The complete Markdown archive is stored in the GitHub repository. GitHub renders `.md` files directly in the browser, so these links open the readable source files and folders.
 
 ## Main Folders

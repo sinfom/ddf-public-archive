@@ -3,8 +3,6 @@ layout: page
 title: Foundations
 ---
 
-# Foundations
-
 The foundations layer introduces the projection ontology and the admissibility constraints that define the framework.
 
 Core themes include:

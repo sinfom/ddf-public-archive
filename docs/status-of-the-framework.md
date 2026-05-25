@@ -3,8 +3,6 @@ layout: page
 title: Status of the Framework
 ---
 
-# Status of the Framework
-
 DDF is a speculative structural research programme. It is not presented as an experimentally confirmed physical theory and not as a completed Standard-Model-level unification.
 
 At its current stage, the framework aims to organise a coherent derivation chain from projection admissibility toward:

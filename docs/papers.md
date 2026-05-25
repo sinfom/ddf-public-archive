@@ -3,8 +3,6 @@ layout: page
 title: Papers
 ---
 
-# Papers
-
 The `papers/` folder contains public-facing paper drafts.
 
 ## Included Public Drafts

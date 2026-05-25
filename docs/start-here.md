@@ -3,8 +3,6 @@ layout: page
 title: Start Here
 ---
 
-# Start Here
-
 The Dual Domain Framework begins with the proposal that observable physical structure arises through a projection from a deeper generative domain into the observable universe.
 
 The central question is:

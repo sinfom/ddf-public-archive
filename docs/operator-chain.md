@@ -3,8 +3,6 @@ layout: page
 title: Operator Chain
 ---
 
-# Operator Chain
-
 The operator layer develops the route from admissibility constraints to propagation structure and first-order operator form.
 
 Core themes include:

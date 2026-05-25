@@ -3,8 +3,6 @@ layout: home
 title: Dual Domain Framework
 ---
 
-# Dual Domain Framework
-
 The Dual Domain Framework is an independent speculative research programme exploring whether observable physical structure can be modelled as the constrained projection of a deeper generative domain.
 
 This website is the public entry point for the archive. The full repository contains working notes, derivation chains, draft papers, dependency maps, and raw combined material.
