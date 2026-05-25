@@ -13,10 +13,12 @@ The repository preserves both public-facing material and historical working mate
 
 ## Research Material
 
-- `notes/` - organised research notes copied from the source DDF archive.
-- `papers/` - public-facing paper drafts.
-- `raw/` - combined source material and key indexes.
-- `archive/` - historical combined files and retained working material.
+- [notes/](https://github.com/sinfom/ddf-public-archive/tree/main/notes) - organised research notes copied from the source DDF archive.
+- [papers/](https://github.com/sinfom/ddf-public-archive/tree/main/papers) - public-facing paper drafts.
+- [raw/](https://github.com/sinfom/ddf-public-archive/tree/main/raw) - combined source material and key indexes.
+- [archive/](https://github.com/sinfom/ddf-public-archive/tree/main/archive) - historical combined files and retained working material.
+
+For direct access to the Markdown folders and key files, see [Browse Archive](browse-archive.md).
 
 ## Source Preservation
 

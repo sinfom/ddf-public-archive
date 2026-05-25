@@ -21,4 +21,4 @@ The archive develops this question through a chain of notes and papers covering 
 4. [Operator Chain](operator-chain.md)
 5. [Papers](papers.md)
 
-For the complete working record, use the repository folders `notes/`, `papers/`, `raw/`, and `archive/`.
+For the complete working record, use [Browse Archive](browse-archive.md), which links to the repository folders `notes/`, `papers/`, `raw/`, and `archive/`.
